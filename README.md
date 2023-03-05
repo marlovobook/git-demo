@@ -6,8 +6,8 @@ Web scraping Using Selenium (Extract)
 
 Transform and Load in Excel (Power Query Editor)
 
-  Web scraping using 
+    Web scraping using 
   
-   #Selenium
+#Selenium
    
   website = https://propertyhub.in.th/เช่าคอนโด/bts-อ่อนนุช
