@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "git-test"
+version = "0.1.0"
+description = "for dependency management in this project"
+authors = ["Piramid Surin <marlovobook@hotmail.com>"]
+license = "None"
+readme = "README.md"
+packages = [{include = "git_test"}]
+
+[tool.poetry.dependencies]
+python = "3.9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
